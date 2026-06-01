@@ -55,3 +55,13 @@ My expertise spans building high-performance Machine Learning architectures and 
 - 🔭 Working on: **[Anti-Money Laundering ML](https://github.com/luencaro/anti-money-laundering-ml)** — CascadeBoost on extreme class imbalance.
 - 🌱 Learning: **Deeplearning**
 - 💬 Ask me about: **Imbalanced classification, homomorphic cryptography, PySpark, Python, SQL**
+
+---
+## 🥬 Outside of work
+
+<p align="center">
+  <i>Currently vibing to...</i><br/>
+  <a href="https://open.spotify.com/track/7CHelZFdG67KvsIfXlFiMh">
+    <img src="https://img.shields.io/badge/🎵_Tokyo_Drifting-Glass_Animals_·_Denzel_Curry-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
