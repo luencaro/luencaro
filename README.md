@@ -25,18 +25,14 @@ My expertise spans building high-performance Machine Learning architectures and 
 *   **Software Engineering:** Robust backend architecture using Django and Java, combined with advanced SQL database optimization.
 *   **DevOps & Cloud:** Containerization with Docker and secure, agile cloud deployments on GCP.
 *   **Research & Math:** Cryptographic systems, Fourier analysis, Functional analysis and scientific typesetting in LaTeX.
----
 
+---
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <!-- Fila 1: Data Science, Machine Learning & Analytics -->
-  <img src="https://skillicons.dev/icons?i=python,r,sklearn,xgboost,spark,ipynb,powerbi,latex" alt="Data Science & Machine Learning" />
-  <br><br>
-  <!-- Fila 2: Backend, Infraestructura & Herramientas -->
-  <img src="https://skillicons.dev/icons?i=django,java,postgres,git,docker,gcp,linux,md" alt="Backend & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=python,r,sklearn,xgboost,spark,ipynb,powerbi,latex,django,java,postgres,git,docker,gcp,linux,md" alt="My Tech Stack" />
 </p>
 
 ---
