@@ -59,9 +59,6 @@ My expertise spans building high-performance Machine Learning architectures and 
 ---
 ## 🥬 Outside of work
 
-<p align="center">
-  <i>Currently vibing to...</i><br/>
-  <a href="https://open.spotify.com/track/7CHelZFdG67KvsIfXlFiMh">
-    <img src="https://img.shields.io/badge/🎵_Tokyo_Drifting-Glass_Animals_·_Denzel_Curry-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312e2qsro3hv5lqx3xm6jajyg5ey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312e2qsro3hv5lqx3xm6jajyg5ey&redirect=true)
+
+
