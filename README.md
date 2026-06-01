@@ -20,7 +20,7 @@ I am a **Mathematician** and **Data Scientist** specialized in blending advanced
 My expertise spans building high-performance Machine Learning architectures and developing scalable, production-ready backend engines.
 
 ### 🧠 Core Expertise
-*   **Data Science & ML:** Advanced Machine Learning (XGBoost, RUSBoost), statistical modeling, and cretion of pipelines for advance feature engineering.
+*   **Data Science & ML:** Advanced Machine Learning, statistical modeling, and cretion of pipelines for advance feature engineering.
 *   **Big Data & Analytics:** Distributed data processing with PySpark, R (Tidyverse), and enterprise data visualization in Power BI.
 *   **Software Engineering:** Robust backend architecture using Django and Java, combined with advanced SQL database optimization.
 *   **DevOps & Cloud:** Containerization with Docker and secure, agile cloud deployments on GCP.
@@ -34,3 +34,24 @@ My expertise spans building high-performance Machine Learning architectures and 
 </p>
 
 ---
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Anti-Money Laundering ML**](https://github.com/luencaro/anti-money-laundering-ml) | CascadeBoost (RUSBoost → XGBoost) para detección de lavado de activos con desbalance extremo (~0.18%). F1=0.636, PR-AUC=0.635 — a solo 4.6 pts del SOTA en GNNs (AAAI 2024) | Python · XGBoost · sklearn |
+| [**Churn MLOps**](https://github.com/luencaro/churn-mlops) | Pipeline MLOps completo para predicción de churn en telecomunicaciones: 4 modelos ensemble, explicabilidad con LIME, API FastAPI containerizada con CI/CD en GitHub Actions | Python · XGBoost · FastAPI · Docker |
+| [**PySpark vs sklearn**](https://github.com/luencaro/pyspark-sklearn-performance-comparison) | Comparativa de rendimiento entre procesamiento distribuido (PySpark MLlib) y local (scikit-learn) sobre 1.3M préstamos Lending Club, con interpretabilidad via LIME | PySpark · sklearn · Python |
+| [**ElGamal Voting System**](https://github.com/luencaro/Sistema-de-Votaci-n-ElGamal) | Sistema de votación electrónica con cifrado homomórfico ElGamal multiplicativo, pruebas NIZK, Mixnet para anonimato y auditoría blockchain-like | Python · Cryptography |
+| [**Clínica Citas BD**](https://github.com/luencaro/clinica-citas-bd) | Sistema de gestión médica con arquitectura en capas: 7 stored procedures, 5 triggers, 9 vistas SQL y 3 roles diferenciados, todo containerizado con Docker Compose | Django · PostgreSQL · Docker |
+| [**Manim Fourier**](https://github.com/luencaro/manim-fourier-project) | Visualización matemática animada del análisis de Fourier con Manim — de series trigonométricas a reconstrucción de señales | Python · Manim |
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luencaro/luencaro/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+## ⚡ Currently
+- 🔭 Working on: **[Anti-Money Laundering ML](https://github.com/luencaro/anti-money-laundering-ml)** — CascadeBoost on extreme class imbalance.
+- 🌱 Learning: **Deeplearning**
+- 💬 Ask me about: **Imbalanced classification, homomorphic cryptography, PySpark, Python, SQL**
