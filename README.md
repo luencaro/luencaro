@@ -29,10 +29,14 @@ My expertise spans building high-performance Machine Learning architectures and 
 ---
 ## 🛠️ Languages and Tools
 
-<br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sklearn,xgboost,spark,ipynb,powerbi,latex,django,java,postgres,git,docker,gcp,linux,md" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,r,sklearn,latex,django,java,postgres,git,docker,gcp,linux,md" alt="My Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
