@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./luencaro_green.png" width="80px" alt="pixel cat" />
-  <h1>Hi, I'm Luis Enrique 👋</h1>
-  <p><em>Mathematician and Data Scientist · ML Engineer · Turning math into impact</em><br/>
+  <h1>Hi, I'm Luis Enrique</h1>
+  <p><em>Mathematics (B.Sc. & M.Sc.) and Data Science student · ML Engineer · Turning math into impact</em><br/>
   <a href="https://www.linkedin.com/in/luencaro/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -16,25 +16,26 @@
 ---
 ## 🧐😼 About Me
 
-I am a **Mathematician** and **Data Scientist** specialized in blending advanced statistical modeling with robust software engineering to solve complex, real-world problems.
-My expertise spans building high-performance Machine Learning architectures and developing scalable, production-ready backend engines.
+I am a **Mathematics** (B.Sc. & M.Sc.) and **Data Science** student at Universidad del Norte, blending advanced mathematical and statistical modeling with robust software engineering to solve complex, real-world problems.
+My work spans deep learning and machine learning architectures, neural operators for PDEs, and scalable, production-ready backend engines.
 
-### 🧠 Core Expertise
-*   **Data Science & ML:** Advanced Machine Learning, statistical modeling, and cretion of pipelines for advance feature engineering.
+### Core Expertise
+*   **Deep Learning:** Neural networks with PyTorch and TensorFlow/Keras, transfer learning for computer vision, and neural operators for scientific machine learning.
+*   **Data Science & ML:** Advanced Machine Learning, statistical modeling, and creation of pipelines for advanced feature engineering.
 *   **Big Data & Analytics:** Distributed data processing with PySpark, R (Tidyverse), and enterprise data visualization in Power BI.
 *   **Software Engineering:** Robust backend architecture using Django and Java, combined with advanced SQL database optimization.
 *   **DevOps & Cloud:** Containerization with Docker and secure, agile cloud deployments on GCP.
-*   **Research & Math:** Cryptographic systems, Fourier analysis, Functional analysis and scientific typesetting in LaTeX.
+*   **Research & Math:** Cryptographic systems, Fourier analysis, functional analysis, pseudo-differential operators and scientific typesetting in LaTeX.
 
 ---
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sklearn,latex,django,java,postgres,git,docker,gcp,linux,md" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,java,postgres,git,docker,gcp" alt="My Tech Stack" />
 </p>
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -51,17 +52,15 @@ My expertise spans building high-performance Machine Learning architectures and 
 </p>
 
 ---
-## ⚡ Currently
-- 🔭 Working on: **[Anti-Money Laundering ML](https://github.com/luencaro/anti-money-laundering-ml)** — CascadeBoost on extreme class imbalance.
-- 🌱 Learning: **Deeplearning**
-- 💬 Ask me about: **Imbalanced classification, homomorphic cryptography, PySpark, Python, SQL**
+## Currently
+- Working on: **[Skin Lesion DL](https://github.com/luencaro/skin-lesion-dl)** — Dermoscopic image classification on HAM10000, comparing pretrained ResNet50, MobileNetV2 and VGG16 with TensorFlow/Keras and statistical testing.
+- Researching: **Neural operators and scientific machine learning** (M.Sc. in Mathematics).
+- Ask me about: **Deep learning, imbalanced classification, homomorphic cryptography, PySpark, Python, SQL**
 
 ---
-## 🥬 Outside of work
+## Outside of work
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312e2qsro3hv5lqx3xm6jajyg5ey&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312e2qsro3hv5lqx3xm6jajyg5ey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </p>
-
-
